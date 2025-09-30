@@ -11,10 +11,4 @@ Thanks for visiting my GitHub profile. It's great to meet you here! 🚀
 
 ## 📊 GitHub Dashboard
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RishangS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishangS&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishangS&theme=radical)
-
----
-
-![](https://komarev.com/ghpvc/?username=RishangS&color=blue)
+[![Dashboard stats of @rishang](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68703345&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68703345)
